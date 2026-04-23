@@ -13,4 +13,4 @@ S3 Link: http://oleg-shop-frontend.s3-website.localhost.localstack.cloud:4566
 
 CloudFront: не настраивал (нужна Pro-лицензия LocalStack).
 
-Скриншоты: (приложил)
+Скриншоты приложил
